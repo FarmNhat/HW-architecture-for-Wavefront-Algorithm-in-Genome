@@ -13,7 +13,7 @@
 // Instantiate nhiều lần trong Group Maker để encode song song 8 bases.
 // =============================================================================
 
-`default_nettype none
+//
 
 module base_encoder (
   // Input: ký tự ASCII 8-bit (byte)

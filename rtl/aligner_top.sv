@@ -25,7 +25,7 @@
 // Tổng số cycles COMPUTE = ceil((2*K_MAX+1) / 8) per score step.
 // =============================================================================
 
-`default_nettype none
+//
 `include "pkg_wfa_params.sv"
 
 module aligner_top

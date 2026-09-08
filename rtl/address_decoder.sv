@@ -14,7 +14,7 @@
 // Điều kiện: addr phải < BT_RAM_DEPTH, nếu không → addr_valid = 0.
 // =============================================================================
 
-`default_nettype none
+////
 `include "pkg_wfa_params.sv"
 
 module address_decoder

@@ -24,7 +24,7 @@
 // Word address = s (theo address_decoder.sv).
 // =============================================================================
 
-`default_nettype none
+//
 `include "pkg_wfa_params.sv"
 
 module backtrace_ctrl

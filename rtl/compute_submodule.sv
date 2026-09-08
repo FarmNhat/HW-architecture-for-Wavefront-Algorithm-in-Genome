@@ -28,7 +28,7 @@
 //   - null_out : 1 = tất cả input đều invalid → bỏ qua đường chéo này
 // =============================================================================
 
-`default_nettype none
+//
 `include "pkg_wfa_params.sv"
 
 module compute_submodule

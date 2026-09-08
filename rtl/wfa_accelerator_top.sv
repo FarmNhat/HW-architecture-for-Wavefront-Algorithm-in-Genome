@@ -8,7 +8,7 @@
 // Tham số hóa đầy đủ, override bất kỳ giá trị nào từ bên ngoài.
 // =============================================================================
 
-`default_nettype none
+//
 `include "pkg_wfa_params.sv"
 
 module wfa_accelerator_top

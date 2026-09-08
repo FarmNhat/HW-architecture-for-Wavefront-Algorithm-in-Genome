@@ -20,7 +20,7 @@
 //   ASSIGN      → tìm Aligner rảnh, phát job, quay lại IDLE
 // =============================================================================
 
-`default_nettype none
+//
 `include "pkg_wfa_params.sv"
 
 module extractor_assign

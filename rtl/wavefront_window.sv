@@ -21,7 +21,7 @@
 // K range: k từ -K_MAX đến +K_MAX → index = k + K_MAX (0 đến 2*K_MAX)
 // =============================================================================
 
-`default_nettype none
+//
 `include "pkg_wfa_params.sv"
 
 module wavefront_window

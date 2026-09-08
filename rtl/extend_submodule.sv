@@ -21,7 +21,7 @@
 //   - Mọi array có kích thước cố định từ parameter.
 // =============================================================================
 
-`default_nettype none
+//
 `include "pkg_wfa_params.sv"
 
 module extend_submodule

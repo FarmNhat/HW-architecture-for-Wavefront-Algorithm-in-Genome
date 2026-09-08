@@ -10,7 +10,7 @@
 // Nếu buffer đầy khi kết quả mới đến → backpressure (pause aligner).
 // =============================================================================
 
-`default_nettype none
+//
 `include "pkg_wfa_params.sv"
 
 module collector_packer

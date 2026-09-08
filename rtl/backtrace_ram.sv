@@ -14,7 +14,7 @@
 //   Lúc backtrace: đọc theo rd_addr = f(score)
 // =============================================================================
 
-`default_nettype none
+//
 `include "pkg_wfa_params.sv"
 
 module backtrace_ram

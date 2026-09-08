@@ -3,7 +3,7 @@
 // WFA Accelerator — Collector Top (Packer × N + Scheduler)
 // =============================================================================
 
-`default_nettype none
+//
 `include "pkg_wfa_params.sv"
 
 module collector_top

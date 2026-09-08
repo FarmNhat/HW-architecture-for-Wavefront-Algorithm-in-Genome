@@ -9,7 +9,7 @@
 // Nếu packer[rr_ptr] hết kết quả hoặc không valid → xoay sang packer tiếp theo.
 // =============================================================================
 
-`default_nettype none
+//
 `include "pkg_wfa_params.sv"
 
 module collector_scheduler

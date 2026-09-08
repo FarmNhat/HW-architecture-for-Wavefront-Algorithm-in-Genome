@@ -5,7 +5,7 @@
 // Wrapper kết nối extractor_assign (bao gồm cả Extract FSM và Assign FSM).
 // Trong thiết kế này, extractor_assign đã tích hợp cả hai FSM.
 
-`default_nettype none
+//
 `include "pkg_wfa_params.sv"
 
 module extractor_top
